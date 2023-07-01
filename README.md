@@ -44,11 +44,11 @@
 - My profile is currently small but I am excited to learn and grow. I've been working on improving my skills and soon you'll see more projects and contributions popping up here! I look forward to sharing my progress with this community. 
 <br><br>
 
-  
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Oswoen&show_icons=true&theme=dark"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oswoen&layout=compact&theme=dark"/>
+  <p style="display: flex; flex-direction: row">
+    <img align="right" width="48%" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oswoen&layout=compact&theme=dark"/>
+    <img width="48%" height="190em" src="https://github-readme-stats.vercel.app/api?username=Oswoen&show_icons=true&theme=dark"/>
 </p>
+
 
 
 <br><br>
