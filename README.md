@@ -1,7 +1,10 @@
 
 <img align="right" height="590em" src="https://user-images.githubusercontent.com/111063166/250282109-d12132b6-4e48-4f1f-9369-4e20ac41c1c9.gif"/>
 <h1 align="left">Hi <img src="https://user-images.githubusercontent.com/111063166/250281563-1f412304-b155-4772-a329-290bae1a1182.gif" height="30px">, I'm Eduardo Henrique</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Oswoen&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Oswoen&color=yellow" alt="Profile views" /> 
+	<img src="https://img.shields.io/github/stars/Oswoen?label=Stars" alt="Total Stars">
+  
+</p>
 
 - 🔥 I'm a junior developer and computer science student
 
@@ -44,11 +47,15 @@
 
 - My profile is currently small but I am excited to learn and grow. I've been working on improving my skills and soon you'll see more projects and contributions popping up here! I look forward to sharing my progress with this community. 
 <br><br>
-
-  <p style="display: flex; flex-direction: row">
-    <img align="right" width="48%" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oswoen&layout=compact&theme=dark"/>
-    <img width="48%" height="190em" src="https://github-readme-stats.vercel.app/api?username=Oswoen&show_icons=true&theme=dark"/>
+ <p align="center">
+    <img width= "60%" src="https://streak-stats.demolab.com/?user=Oswoen&theme=dark"/>
 </p>
+  <p align="left">
+    <img width="48%" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oswoen&layout=compact&theme=dark"/>
+    <img width="48%" height="190em" src="https://github-readme-stats.vercel.app/api?username=Oswoen&show_icons=true&theme=dark"/>
+
+</p>
+ 
 
 
 
@@ -78,7 +85,6 @@
  <img align="center" src="https://img.shields.io/badge/-Youtube-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
-
 
 
 
