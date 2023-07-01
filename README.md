@@ -6,9 +6,9 @@
 
 - 📚 I am currently studying at UFJ (Federal University of Jataí)
 
-- <span align="left"> <img align="center" src="https://user-images.githubusercontent.com/111063166/250288981-e649b1df-80de-4d7e-ba5e-085b675e7e20.png" height="18px"> I'm starting a youtube channel to help people who face the same difficulties as me [youtube.com/maykbrito](https://www.youtube.com/channel/UC-710M8PP4YWNH0fuXiwl0g)</span>
+- <span align="left"> <img align="center" src="https://user-images.githubusercontent.com/111063166/250288981-e649b1df-80de-4d7e-ba5e-085b675e7e20.png" height="18px"> I'm starting a youtube channel to help people who face the same difficulties as me [youtube.com/heinrik](https://www.youtube.com/channel/UC-710M8PP4YWNH0fuXiwl0g)</span>
 
-- 💬 If you are having problems maybe I can help you with one of these languages ​​**JavaScript, HTML, CSS, SQL, React and React Native** so feel free to ask me questions
+- 💬 I know a little bit of **JavaScript, HTML, CSS, SQL and React** feel free to ask me questions if you have problems
 
 - ⚡ Curiosity **None, I'm not interested yet 🥺**
 
