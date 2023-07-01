@@ -1,3 +1,4 @@
+
 <img align="right" height="590em" src="https://user-images.githubusercontent.com/111063166/250282109-d12132b6-4e48-4f1f-9369-4e20ac41c1c9.gif"/>
 <h1 align="left">Hi <img src="https://user-images.githubusercontent.com/111063166/250281563-1f412304-b155-4772-a329-290bae1a1182.gif" height="30px">, I'm Eduardo Henrique</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Oswoen&color=yellow" alt="Profile views" /> </p>
@@ -82,6 +83,7 @@
 
 
 <!--
+![snake svg](https://github.com/wavescats/wavescats/blob/output/github-contribution-grid-snake.svg)
 
 <img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=Heinrik_Dev&layout=wide&show_reply=off&show_retweet=off" />
 Here are some ideas to get you started:
