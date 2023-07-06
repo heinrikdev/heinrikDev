@@ -18,8 +18,6 @@
 
 - 👨‍💻 More at [heinrik.com.br](https://heinrik.com.br)
 
-
-
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
