@@ -2,7 +2,6 @@
 <h1 align="left">Hi <img  width="30px" src="https://user-images.githubusercontent.com/111063166/250281563-1f412304-b155-4772-a329-290bae1a1182.gif" height="30px">, I'm Eduardo Henrique</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heinrikDev&color=yellow" alt="Profile views" /> 
 	<img src="https://img.shields.io/github/stars/heinrikDev?label=Stars" alt="Total Stars">
-  
 </p>
 
 - 🔥 I'm a junior developer and computer science student
