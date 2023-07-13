@@ -42,10 +42,12 @@
 
 - My profile is currently small but I am excited to learn and grow. I've been working on improving my skills and soon you'll see more projects and contributions popping up here! I look forward to sharing my progress with this community. 
 <br><br>
- <p align="center">
+<!-- <p align="center">
     <img width= "60%" src="https://streak-stats.demolab.com/?user=heinrikDev&theme=dark"/>
 </p>
-  <p align="left">
+  -->
+
+  <p align="left"> 
     <img width="48%" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heinrikDev&layout=compact&theme=dark"/>
     <img width="48%" height="190em" src="https://github-readme-stats.vercel.app/api?username=heinrikDev&show_icons=true&theme=dark"/>
 
