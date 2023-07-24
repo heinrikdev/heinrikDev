@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heinrikDev&color=yellow" alt="Profile views" /> 
 	<img src="https://img.shields.io/github/stars/heinrikDev?label=Stars" alt="Total Stars">
 </p>
+
 - 🔥 I'm a junior developer and computer science student
 
 - 📚 I am currently studying at UFJ (Federal University of Jataí)
