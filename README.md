@@ -79,9 +79,9 @@
 <a href="https://instagram.com/heinrik.dev" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://youtube.com/channel/UC-710M8PP4YWNH0fuXiwl0g" target="_blank">
+<!-- <a href="https://youtube.com/channel/UC-710M8PP4YWNH0fuXiwl0g" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Youtube-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
+</a> -->
 </p>
 
 <!--
