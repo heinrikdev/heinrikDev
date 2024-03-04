@@ -37,7 +37,7 @@
 ![firebase](https://img.shields.io/badge/-firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-05122A?style=flat&logo=amazonaws&logoColor=white
 )&nbsp;
-
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
