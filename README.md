@@ -12,7 +12,7 @@
 
 - 💬 I know a little bit of **JavaScript, HTML, CSS, SQL and React** feel free to ask me questions if you have problems
 
-- 👨‍💻 More at [heinrik.com.br](https://heinrik.com.br)
+- 👨‍💻 More at [heinrik.dev](https://heinrik.dev)
 
 <br><br>
 
